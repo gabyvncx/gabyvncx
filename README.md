@@ -1,102 +1,125 @@
 <div align="center">
 
 # Gabrielly Venâncio
-
 ### Estudante de Engenharia de Software · Desenvolvedora em formação
-
 *Transformando ideias em projetos e conhecimento em código.*
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-gabyvncx-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gabyvncx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabrielly%20Ven%C3%A2ncio-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gabrielly-ven%C3%A2ncio-078b01356/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabyvncx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-venâncio-078b01356)
 
 </div>
 
 ---
 
-### `01.` Sobre mim
+## 01. Sobre mim
 
-Sou **Gabrielly**, estudante de **Engenharia de Software** e estou construindo minha trajetória na área de tecnologia.
+Sou Gabrielly, estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia.
 
 Atualmente, estou desenvolvendo minha base em programação, aprendendo através de projetos práticos e explorando diferentes áreas do desenvolvimento de software.
 
 Tenho interesse principalmente em:
 
-**Backend** · **Cybersecurity** · **Automação** · **Inteligência Artificial**
+**Backend · Cybersecurity · Automação · Inteligência Artificial**
 
 ---
 
-### `02.` Atualmente
+## 02. Atualmente
 
-|                   |                         |
-| ----------------- | ----------------------- |
-| **Formação**      | Engenharia de Software  |
-| **Instituição**   | UNINTER                 |
-| **Início**        | 2026                    |
-| **Linguagem**     | Python · Em aprendizado |
-| **IDE**           | PyCharm                 |
-| **Versionamento** | Git & GitHub            |
-
----
-
-### `03.` Tecnologias
-
-**Linguagem**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
-
-**Áreas de interesse**
-
-`Backend` · `Cybersecurity` · `Automação` · `Inteligência Artificial`
+| | |
+|---|---|
+| **Formação** | Engenharia de Software |
+| **Instituição** | UNINTER |
+| **Início** | 2026 |
+| **Linguagem** | Python · Em aprendizado |
+| **IDE** | PyCharm |
+| **Versionamento** | Git & GitHub |
 
 ---
 
-### `04.` Projetos
+## 03. Tecnologias
 
-Uma trilha prática para acompanhar minha evolução em programação, começando pelos fundamentos e avançando para projetos de **backend, automação, cybersecurity e inteligência artificial**.
-
-Cada projeto será desenvolvido e documentado em seu próprio repositório.
-
-|    #   | Projeto                        | Nível | Principais conceitos                    |       Status       |
-| :----: | ------------------------------ | :---: | --------------------------------------- | :----------------: |
-| **01** | 🧮 **Calculadora em Python**   |   🟢  | Lógica, funções e tratamento de erros   |     🔜 Próximo     |
-| **02** | 🔐 **Gerador de Senhas**       |   🟢  | Strings, aleatoriedade e segurança      |     ⏳ Planejado    |
-| **03** | 📂 **Organizador de Arquivos** |   🟢  | Automação e manipulação de arquivos     |     ⏳ Planejado    |
-| **04** | 💰 **Controle Financeiro**     |   🟡  | Estruturas de dados e persistência      |     ⏳ Planejado    |
-| **05** | 🌐 **Verificador de Sites**    |   🟡  | HTTP, requisições e automação web       |     ⏳ Planejado    |
-| **06** | 🔑 **Cofre de Senhas**         |   🟡  | Banco de dados e criptografia           |     ⏳ Planejado    |
-| **07** | 🛜 **Analisador de IPs**       |   🟡  | Redes e fundamentos de cybersecurity    |     ⏳ Planejado    |
-| **08** | ⚙️ **API de Usuários**         |   🟠  | FastAPI, REST e backend                 |     ⏳ Planejado    |
-| **09** | 📊 **Dashboard de Dados**      |   🟠  | Backend, dados e visualização           |     ⏳ Planejado    |
-| **10** | 🤖 **JARVIS**                  |   🔴  | IA, voz, automação e integração de APIs | ⏳ Projeto especial |
-
-**Legenda:**<br>
-🟢 Iniciante · 🟡 Intermediário · 🟠 Avançado · 🔴 Projeto especial
-
-**[→ Explorar meus repositórios](https://github.com/gabyvncx?tab=repositories)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
-### `05.` Formação
+## 04. Projetos
 
-**Engenharia de Software**<br>
+Uma trilha prática para acompanhar minha evolução em programação, com foco em **Backend** e **Cybersecurity**, passando também por Redes e Automação.
+
+Cada projeto é desenvolvido e documentado em seu próprio repositório.
+
+### 🟢 Fundamentos
+| # | Projeto | Conceitos | Status |
+|---|---|---|---|
+| 01 | Calculadora em Python | Lógica, funções, tratamento de erros | 🔜 Próximo |
+| 02 | Gerador de Senhas | Strings, aleatoriedade, segurança | ⏳ Planejado |
+| 03 | Verificador de Força de Senha | Strings e regex | ⏳ Planejado |
+| 04 | Organizador de Arquivos | Automação e manipulação de arquivos | ⏳ Planejado |
+| 05 | Conversor de Unidades/Moedas | Consumo de API pública | ⏳ Planejado |
+| 06 | To-Do List (CLI) | Persistência de dados em arquivo | ⏳ Planejado |
+
+### 🟡 Redes & Segurança Básica
+| # | Projeto | Conceitos | Status |
+|---|---|---|---|
+| 07 | Verificador de Integridade de Arquivos | Hashlib, SHA-256 | ⏳ Planejado |
+| 08 | Verificador de Sites | HTTP, requisições, automação web | ⏳ Planejado |
+| 09 | Analisador de IPs / Port Scanner | Sockets, fundamentos de redes | ⏳ Planejado |
+| 10 | Criptografador de Texto | Cifra de César → AES | ⏳ Planejado |
+| 11 | Detector de Phishing simples | Análise de padrões em URLs | ⏳ Planejado |
+| 12 | Analisador de Logs | Detecção de tentativas de login suspeitas | ⏳ Planejado |
+| 13 | Sniffer de Pacotes básico | Captura de tráfego local (scapy) | ⏳ Planejado |
+
+### 🟠 Backend Real
+| # | Projeto | Conceitos | Status |
+|---|---|---|---|
+| 14 | API de Usuários com Autenticação Segura | FastAPI/Flask, JWT, hash+salt | ⏳ Planejado |
+| 15 | Sistema de Autorização por Papéis | Controle de permissões | ⏳ Planejado |
+| 16 | API com Rate Limiting | Proteção contra brute-force | ⏳ Planejado |
+| 17 | Cofre de Senhas (Password Manager) | Criptografia real, banco de dados | ⏳ Planejado |
+| 18 | Autenticação em Duas Etapas (2FA) | Códigos temporários, TOTP | ⏳ Planejado |
+| 19 | API de Chat em Tempo Real | WebSockets + autenticação | ⏳ Planejado |
+| 20 | Upload de Arquivos com Validação de Segurança | Prevenção de upload malicioso | ⏳ Planejado |
+
+### 🔴 Projetos-Vitrine / Especialista
+| # | Projeto | Conceitos | Status |
+|---|---|---|---|
+| 21 | Honeypot simples | Simulação de vulnerabilidade | ⏳ Planejado |
+| 22 | Scanner de Vulnerabilidades básico | Configurações inseguras comuns | ⏳ Planejado |
+| 23 | Backup Automatizado e Criptografado | Automação + criptografia | ⏳ Planejado |
+| 24 | Dashboard de Monitoramento de Segurança | Agregação de logs e alertas | ⏳ Planejado |
+
+### 🎯 Projeto-Paixão
+| # | Projeto | Conceitos | Status |
+|---|---|---|---|
+| 25 | JARVIS | IA, voz, integração de APIs | ⏳ Projeto especial |
+
+**Legenda:** 🟢 Fundamentos · 🟡 Intermediário · 🟠 Avançado · 🔴 Especialista
+
+→ [Explorar meus repositórios](https://github.com/gabyvncx?tab=repositories)
+
+---
+
+## 05. Formação
+
+**Engenharia de Software**
 UNINTER · 2026 — presente
+
+---
+
+## 06. Contato
+
+📧 [gabrielly.v.dias1110@gmail.com](mailto:gabrielly.v.dias1110@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/gabrielly-venâncio-078b01356)
 
 ---
 
 <div align="center">
 
-**Aprender · Construir · Evoluir**
+*Aprender · Construir · Evoluir*
 
-<br>
-
-*Gabrielly Venâncio · 2026*
+**Gabrielly Venâncio · 2026**
 
 </div>
