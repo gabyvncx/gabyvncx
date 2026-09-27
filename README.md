@@ -54,7 +54,7 @@ Cada projeto é desenvolvido e documentado em seu próprio repositório.
 ### 🟢 Fundamentos
 | # | Projeto | Conceitos | Status |
 |---|---|---|---|
-| 01 | Calculadora em Python | Lógica, funções, tratamento de erros | 🔜 Próximo |
+| 01 | [Calculadora em Python](https://github.com/gabyvncx/calculadora-python) | Lógica, condicionais, loops, tratamento de erros | ✅ Concluído |
 | 02 | Gerador de Senhas | Strings, aleatoriedade, segurança | ⏳ Planejado |
 | 03 | Verificador de Força de Senha | Strings e regex | ⏳ Planejado |
 | 04 | Organizador de Arquivos | Automação e manipulação de arquivos | ⏳ Planejado |
